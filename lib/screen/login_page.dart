@@ -89,7 +89,7 @@ class _LoginPageState extends State<LoginPage> {
                 controller: _passwordController,
                 obscureText: true,
                 decoration: InputDecoration(
-                  hintText: 'Password (pake 97 kalau tidak bisa 097)',
+                  hintText: 'Password (pake 097)',
                   border: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(8),
                   ),

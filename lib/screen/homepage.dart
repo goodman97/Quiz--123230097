@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
-//import 'package:flutter/rendering.dart';
 import '../models/food_list.dart';
 import './detail.dart';
-
-//import 'package:latihan_kuis_a/models/movie_model.dart';
 
 List<Food> savedFoods = [];
 
